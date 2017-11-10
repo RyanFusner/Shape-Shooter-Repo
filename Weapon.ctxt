@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Weapon
+comment1.params=damage\ fireRate\ spread\ range\ projectiles\ fireMode
+comment1.target=Weapon(int,\ int,\ int,\ int,\ int,\ int)
+numComments=2
